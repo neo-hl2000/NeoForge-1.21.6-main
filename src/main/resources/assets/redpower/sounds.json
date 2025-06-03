@@ -1,0 +1,20 @@
+{
+  "chainsaw_cut": {
+    "subtitle": "sounds.redpower.chainsaw_cut",
+    "sounds": [
+      "redpower:chainsaw_cut"
+    ]
+  },
+  "chainsaw_pull": {
+    "subtitle": "sounds.redpower.chainsaw_pull",
+    "sounds": [
+      "redpower:chainsaw_pull"
+    ]
+  },
+  "metal_detector_beep": {
+    "subtitle": "sounds.redpower.metal_detector_beep",
+    "sounds": [
+      "redpower:metal_detector_beep"
+    ]
+  }
+}

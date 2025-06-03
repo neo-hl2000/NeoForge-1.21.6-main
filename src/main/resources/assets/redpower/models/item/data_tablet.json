@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "redpower:item/data_tablet_off"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "redpower:on": 1
+      },
+      "model": "redpower:item/data_tablet_on"
+    }
+  ]
+}
